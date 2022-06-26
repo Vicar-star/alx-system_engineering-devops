@@ -1,8 +1,2 @@
-
 #!/bin/bash
-
 su betty
-root@7c181dc8abc0:/alx-system_engineering-devops/0x01-shell_permissions# wc -1 0-iam_betty
-2 0-iam_betty
-root@7c181dc8abc0:/alx-system_engineering-devops/0x01-shell_permissions# chmod u+x 0-iam_betty
-root@7c181dc8abc0:/alx-system_engineering-devops/0x01-shell_permissions# ls
